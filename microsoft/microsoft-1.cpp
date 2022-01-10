@@ -9,6 +9,7 @@ class solution
 public:
 	int minDifference(int arr[], int n)
 	{
+		int i = 0,j = n-1;
 		return 0;
 	}
 	
